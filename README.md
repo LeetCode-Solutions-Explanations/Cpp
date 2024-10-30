@@ -4,15 +4,21 @@ This repository contains solutions to various Leetcode problems in C++ with deta
 
 ## Directory Structure
 
-├── README.md
+```tree
+.
+├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
 ├── LICENSE
-├── .gitignore
-└── Solutions/
-└── <QuestionNumber>.<QuestionTitleInCamelCase>/
-├── question.md
-├── solution.cpp
-└── explanation.md
+├── README.md
+├── NAMING-CONVENTION.md
+└── Solutions
+    ├── 1.<TITLE>
+    │   ├── explanation.md
+    │   ├── question.md
+    │   ├── solution
+    │   └── solution.cpp
+
+```
 
 ## How to Use
 
