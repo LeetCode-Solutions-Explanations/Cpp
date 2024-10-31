@@ -1,5 +1,3 @@
-Certainly! Let's delve into the **3Sum** problem with a thorough explanation of the concepts involved, the rationale behind the chosen solution, and a detailed step-by-step breakdown.
-
 ### Problem Definition
 
 The **3Sum** problem is defined as follows:
